@@ -1,8 +1,6 @@
-# This repository contains supplementary code (Matlab) accompanying the following paper:
+This repository contains supplementary code (Matlab) accompanying the following paper:
 
-Yao, F., Zhao, W., Forshaw, M., & Song, Y. (2025).
-A self-organizing interval type-2 fuzzy neural network for multi-step time series prediction.
-Applied Soft Computing, 113221.
+Please cite: "Yao, F., Zhao, W., Forshaw, M., & Song, Y. (2025). A self-organizing interval type-2 fuzzy neural network for multi-step time series prediction. Applied Soft Computing, 113221."
 
 ⚠️ Note
 
