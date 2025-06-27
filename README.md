@@ -4,13 +4,9 @@ Please cite: "Yao, F., Zhao, W., Forshaw, M., & Song, Y. (2025). A self-organizi
 
 ⚠️ Note
 
-To maintain consistency with academic standards, certain symbols in the published manuscript have been adjusted. As a result, there may be discrepancies between the notation used in the code and that in the paper.
+To maintain consistency with academic standards, certain symbols in the published manuscript have been adjusted. As a result, there may be discrepancies between the notation used in the code and that in the paper. We have added comments in the code to highlight these differences.
 
-We have added comments in the code to highlight these differences.
-
-Additional comments are included in key sections to assist readers in understanding the implementation.
-
-Due to time constraints, some sections may contain minimal annotation. We recommend referring to the published paper for further clarification.
+Additional comments are included in key sections to assist readers in understanding the implementation. We recommend referring to the published paper for further clarification.
 
 🚀 How to Run the Code
 
